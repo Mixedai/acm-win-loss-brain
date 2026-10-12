@@ -3,6 +3,14 @@
 Supabase (Postgres) schema for answering "Why are we losing to Competitor X this quarter?"
 across the AI SaaS client companies we analyse.
 
+## Built by
+
+- [Mustafa Kurtulus (@Mixedai)](https://github.com/Mixedai)
+- [@RuntimeSquad](https://github.com/RuntimeSquad)
+- [@8of12](https://github.com/8of12)
+
+Developed with Claude Code as a pair programmer.
+
 ## Layout
 
 ```
