@@ -1,0 +1,6 @@
+.env.local
+supabase/.temp/
+.DS_Store
+web/node_modules/
+web/.next/
+web/.vercel/
